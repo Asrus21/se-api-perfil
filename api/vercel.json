@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/perfil", "destination": "/api/perfil.js" }
+  ]
+}
